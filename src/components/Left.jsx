@@ -55,7 +55,11 @@ export default function Left() {
 				>
 					Oyun Nasıl Oynanıyor?
 				</a>
-				<a className="text-gray-600" href="#">
+				<a
+					className="text-gray-600"
+					href="https://github.com/yasinelbuz/arti-eksi-oyunu"
+					target="_blank"
+				>
 					Oyunun kaynak kodları
 				</a>
 			</div>

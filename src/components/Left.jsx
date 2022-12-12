@@ -83,6 +83,13 @@ export default function Left() {
 							– : tahmin edilen sayının içindeki rakam gizli
 							sayıda da varsa ancak aynı yerde bulunmuyorsa.
 						</p>
+						<p className="mt-4 px-4">
+							<h2>Kurallar</h2>
+							<li>5 basamaklı bir sayı girmelisiniz</li>
+							<li>
+								Girilen tüm rakamlar <b>benzersiz</b> olmalıdır
+							</li>
+						</p>
 						<button
 							onClick={closeModal}
 							className="bg-gray-300 p-2 rounded-sm flex items-center m-4 gap-2"
